@@ -1,1 +1,1 @@
-# Next.js + TypeScript + TailwindCSS Boilerplate
+# It's a boilerplate for Next.js, TypeScript and TailwindCSS!
